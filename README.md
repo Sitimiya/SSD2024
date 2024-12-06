@@ -6,6 +6,7 @@ Repository for practice in Software System Development 2024
 
 ### Do not expose your private information because this is a public repository
 
+* Hi how are you. I'm Hiroki.
 * Hi this is Hajimu!
 * Write something unique in one line.
 * Xin chào, my name is Nguyen Ngoc Huy - こんにちは、私はグエン・ゴック・ホイです。
